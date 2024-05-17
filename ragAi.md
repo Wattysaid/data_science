@@ -39,16 +39,14 @@ The `datasets` library by Hugging Face provides a wide range of datasets and too
 
 You can install all the required libraries using the following commands:
 
-\`\`\`bash
+```bash
 pip install transformers faiss-cpu torch
 pip install datasets
-\`\`\`
+```
 
 ## Summary
 
 These libraries provide the necessary tools to build and deploy a RAG model, combining powerful NLP models with efficient retrieval mechanisms.
-
-
 
 ## Steps
 
