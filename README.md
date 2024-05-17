@@ -34,3 +34,36 @@ This guide outlines the key steps in a typical data science workflow, along with
      - **Scikit-learn**: `train_test_split()`, `fit()`, `predict()`
      - **Matplotlib/Seaborn**: `plot()`, `hist()`, `heatmap()`
 
+### Further Reading and Resources 📚
+
+#### Data Manipulation and Analysis
+1. **Python for Data Analysis** by Wes McKinney
+   - A comprehensive guide on using Pandas for data manipulation.
+   - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+
+#### Machine Learning
+2. **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron
+   - A practical approach to machine learning with hands-on examples.
+   - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+
+#### Data Science Fundamentals
+3. **Data Science from Scratch** by Joel Grus
+   - Introduction to data science concepts and techniques for beginners.
+
+#### Data Visualisation
+4. **Matplotlib Documentation**
+   - Official documentation for Matplotlib, a comprehensive library for creating static, animated, and interactive visualisations in Python.
+   - [Matplotlib Documentation](https://matplotlib.org/stable/)
+5. **Seaborn Documentation**
+   - Official documentation for Seaborn, a Python data visualisation library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+   - [Seaborn Documentation](https://seaborn.pydata.org/)
+
+#### Advanced Topics
+6. **Deep Learning with Python** by François Chollet
+   - A comprehensive guide to deep learning using Python and Keras.
+
+7. **The Elements of Statistical Learning** by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+   - A detailed and technical guide on statistical learning and machine learning techniques.
+
+8. **Pattern Recognition and Machine Learning** by Christopher M. Bishop
+   - An in-depth textbook on pattern recognition and machine learning, providing both theoretical and practical perspectives.
