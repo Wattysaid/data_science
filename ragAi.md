@@ -13,10 +13,10 @@ Retrieval-Augmented Generation (RAG) is an advanced AI model that combines retri
 
 ### 1. Set Up Virtual Environment
 Create a virtual environment to manage dependencies:
-\`\`\`bash
+```bash
 python3 -m venv rag-env
 source rag-env/bin/activate  # On Windows, use \`rag-env\Scripts ctivate\`
-\`\`\`
+```
 
 ### 2. Install Dependencies
 Install the necessary libraries:
