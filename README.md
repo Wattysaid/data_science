@@ -2,6 +2,12 @@
 
 This guide outlines the key steps in a typical data science workflow, along with common Python commands used at each stage. 
 
+## Install all required libraries via this code
+
+'''
+pip install -r https://raw.githubusercontent.com/Wattysaid/data_science/main/requirements.txt
+'''
+
 ## Steps in Data Science
 
 1. **Data Collection 📥**
