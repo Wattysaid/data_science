@@ -4,9 +4,8 @@ This guide outlines the key steps in a typical data science workflow, along with
 
 ## Install all required libraries via this code
 
-'''
+```bash
 pip install -r https://raw.githubusercontent.com/Wattysaid/data_science/main/requirements.txt
-'''
 
 ## Steps in Data Science
 
