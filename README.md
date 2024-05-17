@@ -4,8 +4,16 @@ This guide outlines the key steps in a typical data science workflow, along with
 
 ## Install all required libraries via this code
 
+In order to run this command you'll have to include a token for GitHub auth.
+
 ```python
 pip install -r https://raw.githubusercontent.com/Wattysaid/data_science/main/requirements.txt
+```
+
+Updated code with access token. DO NOT MAKE THE REPOSITORY PUBLIC WITH THE TOKEN.
+
+```python
+pip install -r https://<your_token>@raw.githubusercontent.com/Wattysaid/data_science/main/private/requirements.txt
 ```
 
 ## Steps in Data Science
