@@ -1,5 +1,3 @@
-# Define the content for the markdown file
-content = """
 # Data Science Training Curriculum using Python and Jupyter Lab
 
 ## Week 1: Data Extraction
@@ -212,16 +210,3 @@ content = """
    - Author: StatQuest with Josh Starmer
    - Title: "Data-Driven Decision Making"
    - Author: Udacity
-
-These videos provide a thorough guide to applying data science techniques to real-world scenarios. They cover building and deploying machine learning models, feature engineering, creating ETL pipelines, developing live dashboards, and performing decision-making and real-life tests. Participants should follow these tutorials and apply the concepts using Python and Jupyter Lab to gain practical experience.
-"""
-
-# Define the file path
-file_path = "/mnt/data/Data_Science_Training_Curriculum.md"
-
-# Write the content to a markdown file
-with open(file_path, "w") as file:
-    file.write(content)
-
-# Return the file path
-file_path
