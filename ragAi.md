@@ -9,6 +9,47 @@ Retrieval-Augmented Generation (RAG) is an advanced AI model that combines retri
 - Virtual environment setup (optional but recommended)
 - Basic knowledge of Python and machine learning concepts
 
+# Required Libraries for RAG AI Setup
+
+To implement a Retrieval-Augmented Generation (RAG) model, you'll need the following Python libraries:
+
+## Python Libraries
+
+### 1. transformers
+**Installation**: `pip install transformers`
+
+The `transformers` library by Hugging Face provides pre-trained models and tools to easily integrate state-of-the-art natural language processing (NLP) models.
+
+### 2. faiss-cpu
+**Installation**: `pip install faiss-cpu`
+
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors.
+
+### 3. torch
+**Installation**: `pip install torch`
+
+PyTorch is an open-source machine learning library used for applications such as computer vision and natural language processing.
+
+### 4. datasets
+**Installation**: `pip install datasets`
+
+The `datasets` library by Hugging Face provides a wide range of datasets and tools for working with them.
+
+## Installation Commands
+
+You can install all the required libraries using the following commands:
+
+\`\`\`bash
+pip install transformers faiss-cpu torch
+pip install datasets
+\`\`\`
+
+## Summary
+
+These libraries provide the necessary tools to build and deploy a RAG model, combining powerful NLP models with efficient retrieval mechanisms.
+
+
+
 ## Steps
 
 ### 1. Set Up Virtual Environment
