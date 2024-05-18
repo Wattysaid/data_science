@@ -16,6 +16,14 @@ Updated code with access token. DO NOT MAKE THE REPOSITORY PUBLIC WITH THE TOKEN
 pip install -r https://<your_token>@raw.githubusercontent.com/Wattysaid/data_science/main/private/requirements.txt
 ```
 
+| Topic      | Link                                                                                           |
+|------------|------------------------------------------------------------------------------------------------|
+| Learning   | [Learning](https://github.com/Wattysaid/data_science/blob/main/learning.md)                    |
+| Pandas     | [Pandas](https://github.com/Wattysaid/data_science/blob/main/pandas.md)                        |
+| Plotly     | [Plotly](https://github.com/Wattysaid/data_science/blob/main/plotly.md)                        |
+| ragAi      | [ragAi](https://github.com/Wattysaid/data_science/blob/main/ragAi.md)                          |
+
+
 ## Steps in Data Science
 
 1. **Data Collection 📥**
