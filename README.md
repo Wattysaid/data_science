@@ -16,6 +16,8 @@ Updated code with access token. DO NOT MAKE THE REPOSITORY PUBLIC WITH THE TOKEN
 pip install -r https://<your_token>@raw.githubusercontent.com/Wattysaid/data_science/main/private/requirements.txt
 ```
 
+## Cheat Sheets
+
 | Topic      | Link                                                                                           |
 |------------|------------------------------------------------------------------------------------------------|
 | Learning   | [Learning](https://github.com/Wattysaid/data_science/blob/main/learning.md)                    |
